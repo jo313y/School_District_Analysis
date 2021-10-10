@@ -53,4 +53,15 @@ It would be nice to see the costs incrued by the individual families for each sc
 District to District Analysis. It would be nice to compare this district with other districts to see how it compares. Depending on the goals of the district, this could provide insight into where it stands among other districts and possibly help reach out to other districts for insights or knowledge to improve passing percentages.
 
 ## Academic Dishonesty
-The accademic dishonesty which occured at Thomas High School by the ninth graders did not have a statistical affect on the overall analysis of the data. This affected a small percentage of the total and did not sway any of the overall values. The passing percentages for the math and reading slightly increased, but not significantly. This creates a slight bias for Thomas High school in the data. It is still good practice to re-evaluate all of the analyses once the values can be determined.
+The accademic dishonesty which occured at Thomas High School by the ninth graders did not have a statistical affect on the overall analysis of the budget, or size data. 
+
+This affected a small percentage of the total and did not sway any of the overall values. The passing percentages for the math and reading slightly increased, but not significantly. This creates a slight bias for Thomas High school in the data. It is still good practice to re-evaluate all of the analyses once the values can be determined.
+
+Affected Values
+- Average Math Score
+  - Increased from 67% to 93%
+- Average Reading Score
+  - Increased from 70% to 97%
+- Overall Passing Percentage
+  - Increased from 65% to 91%
+- Top and Bottom Schools
