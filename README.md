@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-## Overview
+# Overview
 The school district needs help to analyze data from differnt schools to help make informed decisions on their budgets and overall performance of the schools. The district would like an overview of data based on each school's district, performace, and budget. The school district has also informed the data analysis team of a school which had some academic dishonesty and would like another analysis to view any discrepencies and to see how it affects the data.
 
 # Data
@@ -27,18 +27,19 @@ Math and Reading scores based on grade
 
 ![image](https://user-images.githubusercontent.com/86981530/136711989-1d177fba-e03c-4125-a6a4-d36ce9ecf1c8.png)
 
-# Scores Based On Budget
+## Scores Based On Budget
 Overall scores based on the spending per student
 ![image](https://user-images.githubusercontent.com/86981530/136712070-7526e814-de24-4efb-9eff-4a9f93f2a40d.png)
 
-# Scores Based on Size
+## Scores Based on Size
 Overall scores based on the size of the school
 ![image](https://user-images.githubusercontent.com/86981530/136712111-bad69a7b-1323-4077-9ff1-a43f040d24ca.png)
 
-# Scores Based on School Type
+## Scores Based on School Type
 Overall scores based on the school type
 ![image](https://user-images.githubusercontent.com/86981530/136712146-c4327a89-8d3c-4444-b67a-6112e4d632c6.png)
 
+# Analysis
 
 
 
